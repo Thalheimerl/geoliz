@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello!
 
 I am an incoming postdoc at the [Princeton University C-PREE](https://cpree.princeton.edu/) researching human responses to climate change. I use attribution studies to understand climate-related population movements and build anticipatory action models. Please get in touch or see [my bio page](https://lisathalheimer.github.io/) for more details!
 
