@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hiya 👋
 
 <!--
 **geoliz/geoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello!
+
+I am an incoming postdoc at the [Princeton University C-PREE](https://cpree.princeton.edu/) researching human responses to climate change. I use attribution studies to understand climate-related population movements and build anticipatory action models. Please get in touch or see [my bio page](https://lisathalheimer.github.io/) for more details!
+
+
+### I'm currently working on...
+
+:runner: [Attribution methods](http://pure.iiasa.ac.at/id/eprint/17149/) for flood displacement and human-induced climate change <br />
+:globe_with_meridians: Forecast-based financing for disaster displacement [[Issue brief](https://www.forecast-based-financing.org/wp-content/uploads/2020/10/RCRC_IFRC-FbF-and-Displacement-Issue-Brief.pdf)] <br />
