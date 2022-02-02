@@ -1,4 +1,4 @@
-## Hiya 👋
+## Hi there! 👋
 
 <!--
 **geoliz/geoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an incoming postdoc at the [Princeton University C-PREE](https://cpree.princeton.edu/) researching human responses to climate change. I use attribution studies to understand climate-related population movements and build anticipatory action models. Please get in touch or see [my bio page](https://lisathalheimer.github.io/) for more details! :trollface:
+I am a postdoc at the [Princeton University C-PREE](https://cpree.princeton.edu/people/lisa-thalheimer) researching human responses to climate change. I use attribution studies to understand climate-related population movements and build anticipatory action models. Please get in touch or see [my bio page](https://lisathalheimer.github.io/) for more details! :trollface:
 
 
 ### I'm currently working on...
 
-:runner: [Attribution methods](http://pure.iiasa.ac.at/id/eprint/17149/) for flood displacement and human-induced climate change <br />
-:globe_with_meridians: Forecast-based financing for disaster displacement [[Issue brief](https://www.forecast-based-financing.org/wp-content/uploads/2020/10/RCRC_IFRC-FbF-and-Displacement-Issue-Brief.pdf)] <br />
+:runner: [Attribution methods](http://pure.iiasa.ac.at/id/eprint/17149/) for internal displacement in dryland areas and human-induced climate change <br />
+
+
+### 💬 Ask me about ...
+:globe_with_meridians: Forecast-based financing for disaster displacement published in [[Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/ac4292/meta)] <br />
+
+### 🌱 I’m currently learning ...
+more about remote sensing to expand on our recent [[publication](https://core.ac.uk/download/pdf/286269512.pdf#page=81)] <br />
