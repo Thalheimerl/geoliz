@@ -20,11 +20,6 @@ I am a postdoc at the [Princeton University C-PREE](https://cpree.princeton.edu/
 
 ### I'm currently working on...
 
-:runner: [Attribution methods](http://pure.iiasa.ac.at/id/eprint/17149/) for internal displacement in dryland areas and human-induced climate change <br />
+... :runner: [Attribution methods](http://pure.iiasa.ac.at/id/eprint/17149/) for internal displacement in dryland areas and human-induced climate change <br />
+... :moneybag: [Anticipatory humanitarian action] (https://iopscience.iop.org/article/10.1088/1748-9326/ac4292/pdf) for disaster displaced populations <br />
 
-
-### 💬 Ask me about ...
-:globe_with_meridians: Forecast-based financing for disaster displacement published in [[Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/ac4292/meta)] <br />
-
-### 🌱 I’m currently learning ...
-more about remote sensing to expand on our recent [[publication](https://core.ac.uk/download/pdf/286269512.pdf#page=81)] <br />
