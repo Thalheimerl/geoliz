@@ -21,5 +21,5 @@ I am a postdoc at the [Princeton University C-PREE](https://cpree.princeton.edu/
 ### I'm currently working on...
 
 ... :runner: [Attribution methods](http://pure.iiasa.ac.at/id/eprint/17149/) for internal displacement in dryland areas and human-induced climate change <br />
-... :moneybag: [Anticipatory humanitarian action] (https://iopscience.iop.org/article/10.1088/1748-9326/ac4292/pdf) for disaster displaced populations <br />
+... :moneybag: [Anticipatory humanitarian action](https://iopscience.iop.org/article/10.1088/1748-9326/ac4292/) for disaster displaced populations <br />
 
