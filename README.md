@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Senior Reseracher, United Nations University
 
 <!--
 **geoliz/geoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a postdoc at the [Princeton University C-PREE](https://cpree.princeton.edu/people/lisa-thalheimer) researching human responses to climate change. I use attribution studies to understand climate-related population movements and build anticipatory action models. Please get in touch or see [my bio page](https://lisathalheimer.github.io/) for more details! :trollface:
+ <img src="https://twitter.com/ClimateLisa/header_photo" alt="COP25" title="COP25"/>
+ <img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
-
-### I'm currently working on...
-
-... :runner: [Attribution methods](http://pure.iiasa.ac.at/id/eprint/17149/) for internal displacement in dryland areas and human-induced climate change <br />
-... :moneybag: [Anticipatory humanitarian action](https://iopscience.iop.org/article/10.1088/1748-9326/ac4292/) for disaster displaced populations <br />
-
+As a climate economist with a background in entrepreneurship, Dr. Lisa Thalheimer has diverse experience in large-scale multi-disciplinary quantitative research focused on climate-related migratin and conflict. She is currently a Senior Reseracher at United Nations University. Lisa was a Princeton University post-doctoral reseracher from 2021 to 2022 with Prof. Michael Oppenheimer, and completed his PhD at the Environmental Change Institute at the University of Oxford with Prof. Fredi Otto in 2021. She graduated with a MS in Sustainability Management from Columbia University.
