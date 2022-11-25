@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://twitter.com/ClimateLisa/header_photo" alt="COP25" title="COP25"/>
+#<img src="https://twitter.com/ClimateLisa/header_photo" alt="COP25" title="COP25"/>
 
 As a climate economist with a background in entrepreneurship, Dr. Lisa Thalheimer has diverse experience in large-scale multi-disciplinary quantitative research focused on climate-related migratin and conflict. She is currently a Senior Reseracher at United Nations University. Lisa was a Princeton University post-doctoral reseracher from 2021 to 2022 with Prof. Michael Oppenheimer, and completed his PhD at the Environmental Change Institute at the University of Oxford with Prof. Fredi Otto in 2021. She graduated with a MS in Sustainability Management from Columbia University.
