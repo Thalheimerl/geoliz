@@ -1,4 +1,4 @@
-## Senior Reseracher, United Nations University
+## Senior Researcher, United Nations University
 
 <!--
 **geoliz/geoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
